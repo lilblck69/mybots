@@ -10,5 +10,5 @@ client.on ("ready", () => {
 })
 
 client.on  ("messageCreate", (message)=>{
-    console.log ("🩵︲Qualcuno ha appena inviato un messaggio")
+    console.log ("🩵︲Qualcuno ha appena inviato un messaggio nel server")
 })
